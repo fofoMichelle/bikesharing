@@ -6,8 +6,8 @@ We created a visualizations on Tableau using workssheets, dashboards and stories
 
 
 # Resources
--Data Source: https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip
--Software:  Jupyter Notebook, Tableau Public
+- Data Source: https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip
+- Software:  Jupyter Notebook, Tableau Public
 
 # Results:
 
