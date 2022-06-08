@@ -2,7 +2,7 @@
 # Overview & Purpose
 The task at hand was to analyze the Citibike NYC data for the month of August and put together a "proof of concept" business proposal for the Des Moines, Iowa area.
 Our purpose is to create an analysis on the Citibike Bikesharing from NYC and help investors decide whether this is a business worth investing in.
-We created a visualizations on Tableau using workssheets, dashboards and stories. Please [click here](https://public.tableau.com/app/profile/michelle.ayinkamiye/viz/NYCAnalysis4/NYCBikeStory?publish=yes) to see stories created.
+We created a visualizations on Tableau using workssheets, dashboards and stories. Please [click here](https://public.tableau.com/app/profile/michelle.ayinkamiye/viz/NYCAnalysis5/NYCBikeStory?publish=yes)) to see stories created.
 
 
 # Resources
@@ -61,3 +61,14 @@ The pie is self explanatory there more men who uses th the service of bike shari
 
 
 I used this to show the correlation between the checkoutimes by Gender and gender breakdown. Men not only are they are the ones using the bikes the most they also spend more time using the bike which means that if one was to do a marketing compain we would need to focus on the most profitable gender.
+
+# Summary
+The New York city bike sharing data analysis indicates a high probability of a success story if a similar business was to be opened in Des Moines.
+The bike sharing service is in high demand especially during summer due to the weather conditions. The service is also mostly used by men.
+Additionnal visualizations for future analysis would include the following:
+
+- Performance of the service in other months to determine the overall profitability, this might require a new set of data but would be very useful when deciding about the profitability of the business.
+
+- A new visualization on trips by weekday which would focus on the the trips by weekdays only with emphasis on the traffic hours as this might be the most lucrative time for this business 
+
+
